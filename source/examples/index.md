@@ -78,6 +78,10 @@ links:
       url: https://dusays.com
       avatar: https://cdn.dusays.com/avatar.png
       tags: [分享技术]
+    - name: 爱探索的小T同学
+      url: https://tikas.games/
+      avatar: https://cdn.jsdelivr.net/gh/tikas/cdn/img/custom/avatar-192-192.png
+      tags: 
   - group: '版本：^2.0～2.4'
     desc: 导航栏 N 级菜单；新增 Tab、Note、Menu 标签
     items:
